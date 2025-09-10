@@ -1,2 +1,3 @@
 # Diagrama UML del codigo
-![Diagrama sin título](https://github.com/user-attachments/assets/e954824b-cf74-4c43-a138-a337de6e3baa)
+![Diagrama sin título (1)](https://github.com/user-attachments/assets/29dedf9e-ec17-4dcf-8b0d-6c713f77cca9)
+
